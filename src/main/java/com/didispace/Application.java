@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * @author zhangsheng
  * @version 1.0.0
- * @blog http://blog.didispace.com
+ * @blog http://localhost:8080/swagger-ui.html
  *
  */
 @SpringBootApplication
