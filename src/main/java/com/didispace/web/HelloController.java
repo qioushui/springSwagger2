@@ -7,9 +7,9 @@ import springfox.documentation.annotations.ApiIgnore;
 
 /**
  *
- * @author 程序猿DD
+ * @author zhangsheng
  * @version 1.0.0
- * @blog http://blog.didispace.com
+ * @blog 
  *
  */
 @RestController
